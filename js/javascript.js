@@ -1,3 +1,6 @@
+// https://blog.usejournal.com/develop-a-to-do-list-app-in-vanilla-javascript-95377ec370c5
+
+
 loadEvents();
 // load every event in the page
 function loadEvents(){
